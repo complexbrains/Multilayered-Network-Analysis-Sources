@@ -51,8 +51,7 @@
 
 ### Conference Talks
 
-Ginestra Bianconi @ Complex Networks 2017 - [Multilayered Networks]
-(https://www.amazon.co.uk/gp/product/B07H89V3BB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+Ginestra Bianconi @ Complex Networks 2017 - [Multilayered Networks](https://www.amazon.co.uk/gp/product/B07H89V3BB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1783)
 
