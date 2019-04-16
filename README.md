@@ -42,33 +42,32 @@
 
 * [Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/)
 
-* [MatlabBGL: Matlab package for working with graphs](http://dgleich.github.io/matlab-bgl/)
+* [MatlabBGL](http://dgleich.github.io/matlab-bgl/): Matlab package for working with graphs
 
-* [Louvain method: Finding communities in large networks](https://sites.google.com/site/findcommunities/)
+* [Louvain method](https://sites.google.com/site/findcommunities/):Finding communities in large networks
 
 * [GenLouvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain)
 
-* [Network Community Toolbox by Daniella Bassett (Matlab)](http://commdetect.weebly.com/)
+* [Network Community Toolbox](http://commdetect.weebly.com/) by Daniella Bassett (Matlab)
 
-* [Network Community Toolbox by Daniella Bassett (Python)](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox)
+* [Network Community Toolbox)](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox) by Daniella Bassett (Python
 
 
-* [Functional Subgraph: A machine learning toolbox for the analysis of dynamic graphs by Khambatti](https://github.com/akhambhati/functional_subgraph)
+* [Functional Subgraph](https://github.com/akhambhati/functional_subgraph): A machine learning toolbox for the analysis of dynamic graphs by Khambatti
 
-* [CliqueTop:A collection of matlab scripts for doing topological analysis of symmetric matrices.](https://github.com/nebneuron/clique-top)
+* [CliqueTop](https://github.com/nebneuron/clique-top):A collection of matlab scripts for doing topological analysis of symmetric matrices.
 
 * [Local Community Detection](https://github.com/LJeub/LocalCommunities)
 
-* [Leiden Graph: Implementation of the Leiden algorithm for various quality functions to be used with igraph in Python](https://github.com/vtraag/leidenalg)
+* [Leiden Graphn](https://github.com/vtraag/leidenalg): Implementation of the Leiden algorithm for various quality functions to be used with igraph in Pytho
 
-* [Multilayered Network Library by Mikko Kivela](https://bitbucket.org/bolozna/multilayer-networks-library)
+* [Multilayered Network Library ](https://bitbucket.org/bolozna/multilayer-networks-library)by Mikko Kivela
 
-* [resolution: R implementation of an algorithm to find communities in networks with resolution parameter based on the article "Laplacian dynamics and Multiscale Modular Structure in Networks" R. Lambiotte et al.](https://github.com/analyxcompany/resolution/blob/master/README.md)
+* [resolution](https://github.com/analyxcompany/resolution/blob/master/README.md): R implementation of an algorithm to find communities in networks with resolution parameter based on the article "Laplacian dynamics and Multiscale Modular Structure in Networks" R. Lambiotte et al.
 
-* [OpenNE: An open source toolkit for Network Embedding](https://github.com/thunlp/openne)
+* [OpenNE](https://github.com/thunlp/openne): An open source toolkit for Network Embedding: An open source toolkit for Network Embedding
 
-* [AGMfit detects overlapping communities (dense groups of nodes) in networks](http://snap.stanford.edu/agm/)
-
+* [AGMfit](http://snap.stanford.edu/agm/): Detection of overlapping communities (dense groups of nodes) in networks
 
 
 
@@ -86,9 +85,9 @@ Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovide
 
 * [Guess](http://graphexploration.cond.org/)
 
-* [Circos: Circular Visualisation of Graphs](http://circos.ca/)
+* [Circoss](http://circos.ca/): Circular Visualisation of Graph
 
-* [Spato: Interactive software tool for the visualization and exploration of complex networks](http://www.spato.net/)
+* [Spato](http://www.spato.net/): Interactive software tool for the visualization and exploration of complex networks
 
 * [GraphViz](http://www.graphviz.org/)
 
