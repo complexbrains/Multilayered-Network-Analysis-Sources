@@ -72,8 +72,7 @@
 
 * [OpenNE: An open source toolkit for Network Embedding](https://github.com/thunlp/openne)
 
-
-8[AGMfit detects overlapping communities (dense groups of nodes) in networks](http://snap.stanford.edu/agm/)
+* [AGMfit detects overlapping communities (dense groups of nodes) in networks](http://snap.stanford.edu/agm/)
 
 
 
@@ -86,18 +85,18 @@ Ginestra Bianconi @ Complex Networks 2017 - [Multilayered Networks](https://www.
 Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1783)
 
 ### Network Visualisation Tools
-[Gephi](https://gephi.org/)
+* [Gephi](https://gephi.org/)
 
-[Pajek](http://mrvar.fdv.uni-lj.si/pajek/)
+* [Pajek](http://mrvar.fdv.uni-lj.si/pajek/)
 
-[Guess](http://graphexploration.cond.org/)
+* [Guess](http://graphexploration.cond.org/)
 
-[Circos: Circular Visualisation of Graphs](http://circos.ca/)
+* [Circos: Circular Visualisation of Graphs](http://circos.ca/)
 
-[Spato: Interactive software tool for the visualization and exploration of complex networks](http://www.spato.net/)
+* [Spato: Interactive software tool for the visualization and exploration of complex networks](http://www.spato.net/)
 
-[GraphViz](http://www.graphviz.org/)
+* [GraphViz](http://www.graphviz.org/)
 
-[CytoScape](https://cytoscape.org/)
+* [CytoScape](https://cytoscape.org/)
 
-[MuxViz](http://muxviz.net/index.php)
+* [MuxViz](http://muxviz.net/index.php)
