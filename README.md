@@ -18,7 +18,7 @@
   
 * [Network Visualisation Tools](#network-visualisation-tools)
 
-[Connectome Viewer](http://cmtk.org/viewer/)
+* [Connectome Viewer](http://cmtk.org/viewer/)
 
 
   
@@ -29,42 +29,51 @@
 
 ### Toolboxes/Code Samples
 
-[MIT Matlab Functions for Complex Network Analysis](http://strategic.mit.edu/downloads.php?page=matlab_networks)
+* [MIT Matlab Functions for Complex Network Analysis](http://strategic.mit.edu/downloads.php?page=matlab_networks)
 
-[Pajek](http://mrvar.fdv.uni-lj.si/pajek/)
-[Graph Theory GLM (GTG) MATLAB Toolbox](https://www.nitrc.org/projects/metalab_gtg/)
+* [Pajek](http://mrvar.fdv.uni-lj.si/pajek/)
 
-[GraphVar](https://www.nitrc.org/projects/graphvar/)
+* [Graph Theory GLM (GTG) MATLAB Toolbox](https://www.nitrc.org/projects/metalab_gtg/)
 
-[NBS: Network Based Statistics](https://www.nitrc.org/projects/nbs/)
+* [GraphVar](https://www.nitrc.org/projects/graphvar/)
 
-[SNAP System Stanford Network Analysis Platform](http://snap.stanford.edu/snap/index.html)
+* [NBS: Network Based Statistics](https://www.nitrc.org/projects/nbs/)
 
-[CONN : functional connectivity toolbox](https://www.nitrc.org/projects/conn)
+* [SNAP System Stanford Network Analysis Platform](http://snap.stanford.edu/snap/index.html)
 
-[iGraph: Network Analysis Toolbox](https://igraph.org/redirect.html)
+* [CONN : functional connectivity toolbox](https://www.nitrc.org/projects/conn)
 
-[Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/)
+* [iGraph: Network Analysis Toolbox](https://igraph.org/redirect.html)
 
-[MatlabBGL: Matlab package for working with graphs](http://dgleich.github.io/matlab-bgl/)
+* [Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/)
 
-[Louvain method: Finding communities in large networks](https://sites.google.com/site/findcommunities/)
+* [MatlabBGL: Matlab package for working with graphs](http://dgleich.github.io/matlab-bgl/)
 
-[GenLouvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain)
+* [Louvain method: Finding communities in large networks](https://sites.google.com/site/findcommunities/)
 
-[Network Community Toolbox by Bassett](http://commdetect.weebly.com/)
+* [GenLouvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain)
 
-[Functional Subgraph: A machine learning toolbox for the analysis of dynamic graphs by Khambatti](https://github.com/akhambhati/functional_subgraph)
+* [Network Community Toolbox by Daniella Bassett (Matlab)](http://commdetect.weebly.com/)
 
-[CliqueTop:A collection of matlab scripts for doing topological analysis of symmetric matrices.](https://github.com/nebneuron/clique-top)
-
-[Local Community Detection](https://github.com/LJeub/LocalCommunities)
-
-[Leiden Graph: Implementation of the Leiden algorithm for various quality functions to be used with igraph in Python](https://github.com/vtraag/leidenalg)
-
-[Multilayered Network Library by Kivela](https://bitbucket.org/bolozna/multilayer-networks-library)
+* [Network Community Toolbox by Daniella Bassett (Python)](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox)
 
 
+* [Functional Subgraph: A machine learning toolbox for the analysis of dynamic graphs by Khambatti](https://github.com/akhambhati/functional_subgraph)
+
+* [CliqueTop:A collection of matlab scripts for doing topological analysis of symmetric matrices.](https://github.com/nebneuron/clique-top)
+
+* [Local Community Detection](https://github.com/LJeub/LocalCommunities)
+
+* [Leiden Graph: Implementation of the Leiden algorithm for various quality functions to be used with igraph in Python](https://github.com/vtraag/leidenalg)
+
+* [Multilayered Network Library by Mikko Kivela](https://bitbucket.org/bolozna/multilayer-networks-library)
+
+* [resolution: R implementation of an algorithm to find communities in networks with resolution parameter based on the article "Laplacian dynamics and Multiscale Modular Structure in Networks" R. Lambiotte et al.](https://github.com/analyxcompany/resolution/blob/master/README.md)
+
+* [OpenNE: An open source toolkit for Network Embedding](https://github.com/thunlp/openne)
+
+
+8[AGMfit detects overlapping communities (dense groups of nodes) in networks](http://snap.stanford.edu/agm/)
 
 
 
