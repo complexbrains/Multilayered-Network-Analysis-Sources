@@ -62,3 +62,7 @@ Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovide
 
 [Guess](http://graphexploration.cond.org/)
 
+[Circos: Circular Visualisation of Graphs](http://circos.ca/)
+
+[Spato: Interactive software tool for the visualization and exploration of complex networks](http://www.spato.net/)
+
