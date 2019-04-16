@@ -48,6 +48,27 @@
 
 [MatlabBGL: Matlab package for working with graphs](http://dgleich.github.io/matlab-bgl/)
 
+[Louvain method: Finding communities in large networks](https://sites.google.com/site/findcommunities/)
+
+[GenLouvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain)
+
+[Network Community Toolbox by Bassett](http://commdetect.weebly.com/)
+
+[Functional Subgraph: A machine learning toolbox for the analysis of dynamic graphs by Khambatti](https://github.com/akhambhati/functional_subgraph)
+
+[CliqueTop:A collection of matlab scripts for doing topological analysis of symmetric matrices.](https://github.com/nebneuron/clique-top)
+
+[Local Community Detection](https://github.com/LJeub/LocalCommunities)
+
+[Leiden Graph: Implementation of the Leiden algorithm for various quality functions to be used with igraph in Python](https://github.com/vtraag/leidenalg)
+
+[Multilayered Network Library by Kivela](https://bitbucket.org/bolozna/multilayer-networks-library)
+
+
+
+
+
+
 
 ### Conference Talks
 
@@ -70,3 +91,4 @@ Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovide
 
 [CytoScape](https://cytoscape.org/)
 
+[MuxViz](http://muxviz.net/index.php)
