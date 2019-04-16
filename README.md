@@ -8,17 +8,12 @@
 
 * [Multilayered Networks Tutorials](#multilayered-networks-tutorials)
 
-
 * [Toolboxes](#Toolboxes)
-  + [Multilayered Connectivity Toolbox](#multilayered-connectivity-toolbox)
   
 * [Conference Talks](#conference-talks)
-  + [Talks](#ohbm-talks)
  
-  
 * [Network Visualisation Tools](#network-visualisation-tools)
 
-* [Connectome Viewer](http://cmtk.org/viewer/)
 
 
   
@@ -100,3 +95,5 @@ Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovide
 * [CytoScape](https://cytoscape.org/)
 
 * [MuxViz](http://muxviz.net/index.php)
+
+* [Connectome Viewer](http://cmtk.org/viewer/)
