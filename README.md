@@ -66,3 +66,7 @@ Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovide
 
 [Spato: Interactive software tool for the visualization and exploration of complex networks](http://www.spato.net/)
 
+[GraphViz](http://www.graphviz.org/)
+
+[CytoScape](https://cytoscape.org/)
+
