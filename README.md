@@ -26,6 +26,10 @@
 
 * [MIT Matlab Functions for Complex Network Analysis](http://strategic.mit.edu/downloads.php?page=matlab_networks)
 
+* [BrainX](https://github.com/nipy/brainx): analysis of graph properties of neuroimaging data.
+
+* [NetworkX](https://networkx.github.io/): a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+
 * [Pajek](http://mrvar.fdv.uni-lj.si/pajek/)
 
 * [Graph Theory GLM (GTG) MATLAB Toolbox](https://www.nitrc.org/projects/metalab_gtg/)
