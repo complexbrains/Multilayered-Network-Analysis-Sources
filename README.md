@@ -84,6 +84,9 @@ Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovide
 
 [Complex Systems Conference](https://vimeo.com/user4630872) at Center for Collective Dynamics of Complex Systems at Binghamton University,
 
+Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectivity](https://www.youtube.com/watch?v=HIZydN0aw3s)
+
+
 ### Network Visualisation Tools
 * [Gephi](https://gephi.org/)
 
