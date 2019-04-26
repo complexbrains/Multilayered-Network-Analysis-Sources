@@ -82,6 +82,8 @@ Ginestra Bianconi @ Complex Networks 2017 - [Multilayered Networks](https://www.
 
 Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1783)
 
+[Complex Systems Conference](https://vimeo.com/user4630872) at Center for Collective Dynamics of Complex Systems at Binghamton University,
+
 ### Network Visualisation Tools
 * [Gephi](https://gephi.org/)
 
