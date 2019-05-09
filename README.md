@@ -2,6 +2,8 @@
 
 **Table of content**
 
+* [Conference Talks](#conference-talks)
+
 * [Graph Theory Tutorials](#graph-theory-tutorials)
 
 * [Community Detection in Graphs](#community-detection-in-graphs)
@@ -10,13 +12,20 @@
 
 * [Toolboxes](#Toolboxes)
   
-* [Conference Talks](#conference-talks)
- 
 * [Network Visualisation Tools](#network-visualisation-tools)
 
 
 
-  
+  ### Conference Talks
+
+Ginestra Bianconi @ Complex Networks 2017 - [Multilayered Networks](https://www.amazon.co.uk/gp/product/B07H89V3BB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+
+Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1783)
+
+[Complex Systems Conference](https://vimeo.com/user4630872) at Center for Collective Dynamics of Complex Systems at Binghamton University,
+
+Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectivity](https://www.youtube.com/watch?v=HIZydN0aw3s)
+
   
   
 ### Graph Theory Tutorials
@@ -78,19 +87,6 @@
 * [AGMfit](http://snap.stanford.edu/agm/): Detection of overlapping communities (dense groups of nodes) in networks
 
 
-
-
-### Conference Talks
-
-Ginestra Bianconi @ Complex Networks 2017 - [Multilayered Networks](https://www.amazon.co.uk/gp/product/B07H89V3BB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-
-Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1783)
-
-[Complex Systems Conference](https://vimeo.com/user4630872) at Center for Collective Dynamics of Complex Systems at Binghamton University,
-
-Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectivity](https://www.youtube.com/watch?v=HIZydN0aw3s)
-
-
 ### Network Visualisation Tools
 * [Gephi](https://gephi.org/)
 
@@ -109,3 +105,7 @@ Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectiv
 * [MuxViz](http://muxviz.net/index.php)
 
 * [Connectome Viewer](http://cmtk.org/viewer/)
+
+* [R-Cran Package: Brainwaver](https://cran.r-project.org/web/packages/brainwaver/)
+
+* [R-Cran Package: igraph](https://igraph.org/r/)
