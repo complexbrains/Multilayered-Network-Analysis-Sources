@@ -26,7 +26,7 @@
 
 ### Toolboxes/Code Samples
 
-* [Texas University Brain Connectivity (PSY 381D), Spring 2019  by Satoru Hayasaka]https://github.com/sathayas/JupyterConnectivitySpring2019/blob/master/README.md
+* [Texas University Brain Connectivity (PSY 381D), Spring 2019  by Satoru Hayasaka](https://github.com/sathayas/JupyterConnectivitySpring2019/blob/master/README.md
 
 * [MIT Matlab Functions for Complex Network Analysis](http://strategic.mit.edu/downloads.php?page=matlab_networks)
 
