@@ -37,6 +37,12 @@ Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectiv
 
 * [Texas University Brain Connectivity (PSY 381D), Spring 2019  by Satoru Hayasaka](https://github.com/sathayas/JupyterConnectivitySpring2019/blob/master/README.md)
 
+* [UC Berkeley network analysis toolbox](https://github.com/nipy/brainx) by [Cohen et al., (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27903719)
+
+
+* [NetworkX Toolbox](https://networkx.github.io/)
+
+
 * [MIT Matlab Functions for Complex Network Analysis](http://strategic.mit.edu/downloads.php?page=matlab_networks)
 
 * [BrainX](https://github.com/nipy/brainx): analysis of graph properties of neuroimaging data.
