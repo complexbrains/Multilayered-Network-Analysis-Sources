@@ -43,6 +43,10 @@ Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectiv
 
 * [NetworkX](https://networkx.github.io/): a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 
+* [Mikko Kivela's Multilayer Network Analysis Toolbox in Python](http://www.mkivela.com/pymnet/)
+
+* [Graph-tool](https://graph-tool.skewed.de/): A Python module for manipulation and statistical analysis of graphs.
+
 * [Pajek](http://mrvar.fdv.uni-lj.si/pajek/)
 
 * [Graph Theory GLM (GTG) MATLAB Toolbox](https://www.nitrc.org/projects/metalab_gtg/)
