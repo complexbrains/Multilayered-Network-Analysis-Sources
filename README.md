@@ -14,6 +14,8 @@
   
 * [Network Visualisation Tools](#network-visualisation-tools)
 
+* [Several Papers on the topic](#papers)
+
 
 
   ### Conference Talks
@@ -119,3 +121,8 @@ Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectiv
 * [R-Cran Package: igraph](https://igraph.org/r/)
 
 * [NeuroMArVL](https://immersive.erc.monash.edu/neuromarvl/)
+
+
+### Papers
+
+Goncalves & Perra, 2019, [Dynamical Processes in Time-Varying Networks](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190460518.001.0001/oxfordhb-9780190460518-e-4)
