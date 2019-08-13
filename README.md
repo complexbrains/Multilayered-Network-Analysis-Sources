@@ -125,4 +125,4 @@ Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectiv
 
 ### Papers
 
-Goncalves & Perra, 2019, [Dynamical Processes in Time-Varying Networks](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190460518.001.0001/oxfordhb-9780190460518-e-4)
+Goncalves & Perra, 2019,[Dynamical Processes in Time-Varying Networks](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190460518.001.0001/oxfordhb-9780190460518-e-4)
