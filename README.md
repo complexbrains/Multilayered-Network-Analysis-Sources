@@ -28,6 +28,8 @@ Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovide
 
 Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectivity](https://www.youtube.com/watch?v=HIZydN0aw3s)
 
+University of Lille [Advanced methods for neuroimaging data analysis workshop](https://webtv.univ-lille.fr/grp/478/am4ndalille-advanced-methods-for-neuroimaging-data-analysis-workshop/)
+
   
   
 ### Graph Theory Tutorials
