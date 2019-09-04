@@ -1,4 +1,4 @@
-# Multilayered-Network-Analysis-Sources
+# Multilayered/Network-Analysis-Sources
 
 **Table of content**
 
