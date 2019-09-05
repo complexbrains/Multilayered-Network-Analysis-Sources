@@ -110,7 +110,7 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 * [Network Community Toolbox](http://commdetect.weebly.com/) by Daniella Bassett (Matlab)
 
-* [Network Community Toolbox)](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox) by Daniella Bassett (Python
+* [Network Community Toolbox](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox) Python version of Network Community Analsysis Codes provided by Daniella Bassett
 
 * [Functional Subgraph](https://github.com/akhambhati/functional_subgraph): A machine learning toolbox for the analysis of dynamic graphs by Khambatti
 
@@ -120,15 +120,15 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 * [Leiden Graphn](https://github.com/vtraag/leidenalg): Implementation of the Leiden algorithm for various quality functions to be used with igraph in Pytho
 
-* [Multilayered Network Library ](https://bitbucket.org/bolozna/multilayer-networks-library)by Mikko Kivela
+* [Multilayered Network Library](https://bitbucket.org/bolozna/multilayer-networks-library)by Mikko Kivela
 
-* [resolution](https://github.com/analyxcompany/resolution/blob/master/README.md): R implementation of an algorithm to find communities in networks with resolution parameter based on the article "Laplacian dynamics and Multiscale Modular Structure in Networks" R. Lambiotte et al.
+* [Resolution](https://github.com/analyxcompany/resolution/blob/master/README.md): R implementation of an algorithm to find communities in networks with resolution parameter based on the article "Laplacian dynamics and Multiscale Modular Structure in Networks" R. Lambiotte et al.
 
 * [OpenNE](https://github.com/thunlp/openne): An open source toolkit for Network Embedding: An open source toolkit for Network Embedding
 
 * [AGMfit](http://snap.stanford.edu/agm/): Detection of overlapping communities (dense groups of nodes) in networks
 
-* [KoNET](http://konect.uni-koblenz.de/)(Koblenz Network Collection:Large network datasets)
+* [KoNET](http://konect.uni-koblenz.de/)Koblenz Network Collection: Large network datasets
 
 * [NetWiki](http://netwiki.amath.unc.edu/SharedData/SharedData)
 
