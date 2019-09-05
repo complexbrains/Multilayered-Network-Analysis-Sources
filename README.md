@@ -30,6 +30,26 @@ Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectiv
 
 University of Lille [Advanced methods for neuroimaging data analysis workshop](https://webtv.univ-lille.fr/grp/478/am4ndalille-advanced-methods-for-neuroimaging-data-analysis-workshop/)
 
+OHBM 2019 Educational Tutorials Morning Session: [An Introduction to Network Neuroscience: How to build, model, and analyse connectomes](https://www.pathlms.com/ohbm/courses/12238/sections/15846/video_presentations/137536)
+
+OHBM 2019 Educational Tutorials Afternoon Session: [An Introduction to Network Neuroscience: How to build, model, and analyse connectomes](https://www.pathlms.com/ohbm/courses/12238/sections/15846/video_presentations/137538)
+
+OHBM 2019 Educational Tutorials: [Controversies and Open Questions in the Study of “Resting - State” Time - Varying Functional Connectivity](https://www.pathlms.com/ohbm/courses/12238/sections/15846/video_presentations/138286)
+
+OHBM 2019 Educational Tutorials: [Dan Lurie, Time-varying Connectivity in Resting-state fMRI: Methods, interpretations, and clinical use]	(https://www.pathlms.com/ohbm/courses/12238/sections/15846/video_presentations/137449)
+
+OHBM 2019 Symposia: [Xenia Kobeleva, How Do Current Predictive Connectivity Models Meet Clinician's Needs?]	(https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/137847)
+
+OHBM 2019 Symposia: [Sepideh Sadaghiani, Spatial Organization of Connectivity Over Timescales: Multimodal insights on cognitive architectures](https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/137618)
+
+OHBM 2019 Symposia: [Maurizio Corbetta, Measuring Functional Connectivity in Stroke: Approaches and considerations](https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/137899)
+
+OHBM 2019 Symposia: [Ben Fulcher, Connecting Large - Scale Brain - Network Topology to the Transcriptome Reveals Multiscale Principles of Brain Organization](https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/137948)
+
+OHBM 2019 Symposia: [Christian Grefkes, Connectivity - based Models in Stroke and Recovery of Function: A clinical researcher’s viewpoint](https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/137952)
+
+OHBM 2019 Symposia: [Cyril Pernet, OHBM - COBIDAS MEEG Guidelines for Mapping Of MEG and EEG Source Activity and Connectivity in Brain Research](https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/138196)
+
   
   
 ### Graph Theory Tutorials
