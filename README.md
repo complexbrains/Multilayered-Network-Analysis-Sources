@@ -128,3 +128,5 @@ University of Lille [Advanced methods for neuroimaging data analysis workshop](h
 ### Papers
 
 Goncalves & Perra, 2019, [Dynamical Processes in Time-Varying Networks](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190460518.001.0001/oxfordhb-9780190460518-e-4)
+ 
+Kivelä et al., 2014 [Multilayer networks](https://academic.oup.com/comnet/article/2/3/203/2841130)
