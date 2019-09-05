@@ -163,3 +163,27 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 Goncalves & Perra, 2019, [Dynamical Processes in Time-Varying Networks](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190460518.001.0001/oxfordhb-9780190460518-e-4)
  
 Kivelä et al., 2014 [Multilayer networks](https://academic.oup.com/comnet/article/2/3/203/2841130)
+
+Soon to be filled...
+
+### Conferences
+
+[Complenet](https://complenet.weebly.com/)
+
+[Complex Networks](https://www.complexnetworks.org/)
+
+[UK Network Science Workshop](https://sites.google.com/view/2nd-uk-netsci-workshop)
+
+[Mediterranean School on complex networks)(http://mediterraneanschoolcomplex.net/)
+
+[NET2019 — International Workshop on Network Models in Statistics, Economics and Social Sciences](NET2019 — International Workshop on Network Models in Statistics, Economics and Social Sciences)
+
+[NetSci-X — International School and Conference on Network Science](https://netscisociety.net/home)
+
+[Workshop — Random Graphs: Combinatorics, Complex Networks and Disordered Systems](https://www.mfo.de/www/schedule/2020/all)
+
+
+
+
+
+
