@@ -73,6 +73,7 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 * [Texas University Brain Connectivity (PSY 381D), Spring 2019  by Satoru Hayasaka](https://github.com/sathayas/JupyterConnectivitySpring2019/blob/master/README.md)
 
+
 * [MIT Matlab Functions for Complex Network Analysis](http://strategic.mit.edu/downloads.php?page=matlab_networks)
 
 * [BrainX](https://github.com/nipy/brainx): analysis of graph properties of neuroimaging data by [Cohen et al., (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27903719)
@@ -105,6 +106,8 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 * [GenLouvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain)
 
+* [Louvain I-Graph](https://github.com/vtraag/louvain-igraph): Louvain algorithm in C++ and exposes it to python
+
 * [Network Community Toolbox](http://commdetect.weebly.com/) by Daniella Bassett (Matlab)
 
 * [Network Community Toolbox)](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox) by Daniella Bassett (Python
@@ -133,6 +136,20 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 * [EasyN](http://www.esyn.org/): Building interactive networks
 
+* [Filtered Network Models](http://filterednetworkmodelref.weebly.com/)
+
+* [Functional Subgraph](https://github.com/akhambhati/functional_subgraph): A machine learning toolbox for the analysis of dynamic graphs.
+
+* [Clique-Top](https://github.com/nebneuron/clique-top): CliqueTop is a collection of matlab scripts for doing topological analysis of symmetric matrices.
+
+* [Peter Mucha Network Tools](http://mucha.web.unc.edu/networks/)
+
+* [Kivela's Multilayered Networks Library](https://bitbucket.org/bolozna/multilayer-networks-library/src/default/)
+
+* [Interactive Markov Chains](http://setosa.io/ev/markov-chains/)
+
+*  [Stability of Graph Partition](http://wwwf.imperial.ac.uk/~mpbara/Partition_Stability/index.html)
+
 
 ### Network Visualisation Tools
 * [Gephi](https://gephi.org/)
@@ -158,6 +175,9 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 * [R-Cran Package: igraph](https://igraph.org/r/)
 
 * [NeuroMArVL](https://immersive.erc.monash.edu/neuromarvl/)
+
+* [Temporal Eigen Vector Centrality](https://github.com/taylordr/Temporal_Eigenvector_Centrality)
+
 
 
 ### Papers
