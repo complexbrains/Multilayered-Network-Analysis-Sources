@@ -16,6 +16,8 @@
 
 * [Several Papers on the topic](#papers)
 
+* [Conferences](#conferences)
+
 
 
  ### Conference Talks
