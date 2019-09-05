@@ -16,7 +16,7 @@
 
 * [Several Papers on the topic](#papers)
 
-* [Conferences](#conferences)
+* [Conferences, Events, Workshops](#conferences-events-workshops)
 
 
 
@@ -168,7 +168,7 @@ Kivelä et al., 2014 [Multilayer networks](https://academic.oup.com/comnet/artic
 
 Soon to be filled...
 
-### Conferences
+### Conferences, Events, Workshops
 
 [Complenet](https://complenet.weebly.com/)
 
