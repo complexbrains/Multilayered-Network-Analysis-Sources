@@ -150,6 +150,8 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 *  [Stability of Graph Partition](http://wwwf.imperial.ac.uk/~mpbara/Partition_Stability/index.html)
 
+* [Partition Stability](https://github.com/michaelschaub/PartitionStability)
+
 
 ### Network Visualisation Tools
 * [Gephi](https://gephi.org/)
@@ -177,6 +179,10 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 * [NeuroMArVL](https://immersive.erc.monash.edu/neuromarvl/)
 
 * [Temporal Eigen Vector Centrality](https://github.com/taylordr/Temporal_Eigenvector_Centrality)
+
+* [Connectome Computation System](https://github.com/zuoxinian/CCS)
+
+* [Resolution](https://github.com/analyxcompany/resolution/blob/master/README.md)R implementation of an algorithm to find communities in networks with resolution parameter based on the article "Laplacian dynamics and Multiscale Modular Structure in Networks" R. Lambiotte et al.
 
 
 
