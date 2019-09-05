@@ -18,13 +18,16 @@
 
 
 
-  ### Conference Talks
+ ### Conference Talks
 
 Ginestra Bianconi @ Complex Networks 2017 - [Multilayered Networks](https://www.amazon.co.uk/gp/product/B07H89V3BB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 Santo Fortunato @ Complex Networks 2017 - [Community Detection](http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1783)
 
+[Complex Networks, 2017](https://www.univ-lyon2.fr/culture-savoirs/podcasts/complex-networks-2017-759950.kjsp?RH=WWW_FR), Lyon 
+
 [Complex Systems Conference](https://vimeo.com/user4630872) at Center for Collective Dynamics of Complex Systems at Binghamton University,
+
 
 Bratislav Misic, McGill University [Graph Theory and measures of Brain Connectivity](https://www.youtube.com/watch?v=HIZydN0aw3s)
 
@@ -50,6 +53,9 @@ OHBM 2019 Symposia: [Christian Grefkes, Connectivity - based Models in Stroke an
 
 OHBM 2019 Symposia: [Cyril Pernet, OHBM - COBIDAS MEEG Guidelines for Mapping Of MEG and EEG Source Activity and Connectivity in Brain Research](https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/138196)
 
+OHBM 2019 Symposia: [Claudio Babiloni, IFCN Guidelines for Mapping Of EEG Source Activity and Connectivity in Clinical Research](https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/138172)
+
+OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: Potential and limitations](https://www.pathlms.com/ohbm/courses/12238/sections/15843/video_presentations/138231)
   
   
 ### Graph Theory Tutorials
@@ -101,7 +107,6 @@ OHBM 2019 Symposia: [Cyril Pernet, OHBM - COBIDAS MEEG Guidelines for Mapping Of
 
 * [Network Community Toolbox)](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox) by Daniella Bassett (Python
 
-
 * [Functional Subgraph](https://github.com/akhambhati/functional_subgraph): A machine learning toolbox for the analysis of dynamic graphs by Khambatti
 
 * [CliqueTop](https://github.com/nebneuron/clique-top):A collection of matlab scripts for doing topological analysis of symmetric matrices.
@@ -117,6 +122,14 @@ OHBM 2019 Symposia: [Cyril Pernet, OHBM - COBIDAS MEEG Guidelines for Mapping Of
 * [OpenNE](https://github.com/thunlp/openne): An open source toolkit for Network Embedding: An open source toolkit for Network Embedding
 
 * [AGMfit](http://snap.stanford.edu/agm/): Detection of overlapping communities (dense groups of nodes) in networks
+
+* [KoNET](http://konect.uni-koblenz.de/)(Koblenz Network Collection:Large network datasets)
+
+* [NetWiki](http://netwiki.amath.unc.edu/SharedData/SharedData)
+
+* [Stanford Network Database](http://snap.stanford.edu/data/)
+
+* [EasyN](http://www.esyn.org/): Building interactive networks
 
 
 ### Network Visualisation Tools
