@@ -174,9 +174,9 @@ Soon to be filled...
 
 [UK Network Science Workshop](https://sites.google.com/view/2nd-uk-netsci-workshop)
 
-[Mediterranean School on complex networks)(http://mediterraneanschoolcomplex.net/)
+[Mediterranean School on complex networks](http://mediterraneanschoolcomplex.net/)
 
-[NET2019 — International Workshop on Network Models in Statistics, Economics and Social Sciences](NET2019 — International Workshop on Network Models in Statistics, Economics and Social Sciences)
+[NET2019](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-sciences-net-registration-59152695304)  International Workshop on Network Models in Statistics, Economics and Social Sciences
 
 [NetSci-X — International School and Conference on Network Science](https://netscisociety.net/home)
 
