@@ -6,7 +6,7 @@
 
 * [Graph Theory Tutorials](#graph-theory-tutorials)
 
-* [Toolboxes/Code Samples](#toolboxes-code-samples)
+* [Toolboxes and Code Samples](#toolboxes-and-code-samples)
 
 * [Multilayered Networks Tutorials](#multilayered-networks-tutorials)
 
@@ -69,7 +69,7 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 
 
-### Toolboxes/Code Samples
+### Toolboxes and Code Samples
 
 * [Texas University Brain Connectivity (PSY 381D), Spring 2019  by Satoru Hayasaka](https://github.com/sathayas/JupyterConnectivitySpring2019/blob/master/README.md)
 
