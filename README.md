@@ -6,7 +6,7 @@
 
 * [Graph Theory Tutorials](#graph-theory-tutorials)
 
-* [Community Detection in Graphs](#community-detection-in-graphs)
+* [Toolboxes/Code Samples](#toolboxes-code-samples)
 
 * [Multilayered Networks Tutorials](#multilayered-networks-tutorials)
 
