@@ -94,7 +94,7 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 * [SNAP System Stanford Network Analysis Platform](http://snap.stanford.edu/snap/index.html)
 
-* [CONN : functional connectivity toolbox](https://www.nitrc.org/projects/conn)
+* [CONN](https://www.nitrc.org/projects/conn): Functional connectivity toolbox
 
 * [iGraph: Network Analysis Toolbox](https://igraph.org/redirect.html)
 
@@ -102,19 +102,19 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 * [MatlabBGL](http://dgleich.github.io/matlab-bgl/): Matlab package for working with graphs
 
-* [Louvain method](https://sites.google.com/site/findcommunities/):Finding communities in large networks
+* [Louvain method](https://sites.google.com/site/findcommunities/): Finding communities in large networks
 
 * [GenLouvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain)
 
 * [Louvain I-Graph](https://github.com/vtraag/louvain-igraph): Louvain algorithm in C++ and exposes it to python
 
-* [Network Community Toolbox](http://commdetect.weebly.com/) by Daniella Bassett (Matlab)
+* [Network Community Toolbox](http://commdetect.weebly.com/): by Daniella Bassett (Matlab)
 
-* [Network Community Toolbox](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox) Python version of Network Community Analsysis Codes provided by Daniella Bassett
+* [Network Community Toolbox](https://github.com/nangongwubu/Python-Version-for-Network-Community-Architecture-Toobox): Python version of Network Community Analsysis Codes provided by Daniella Bassett
 
 * [Functional Subgraph](https://github.com/akhambhati/functional_subgraph): A machine learning toolbox for the analysis of dynamic graphs by Khambatti
 
-* [CliqueTop](https://github.com/nebneuron/clique-top):A collection of matlab scripts for doing topological analysis of symmetric matrices.
+* [CliqueTop](https://github.com/nebneuron/clique-top): A collection of matlab scripts for doing topological analysis of symmetric matrices.
 
 * [Local Community Detection](https://github.com/LJeub/LocalCommunities)
 
@@ -128,7 +128,7 @@ OHBM 2019 Symposia: [Vince Calhoun, Dynamic Functional Connectivity Biomarkers: 
 
 * [AGMfit](http://snap.stanford.edu/agm/): Detection of overlapping communities (dense groups of nodes) in networks
 
-* [KoNET](http://konect.uni-koblenz.de/)Koblenz Network Collection: Large network datasets
+* [KoNET](http://konect.uni-koblenz.de/): Koblenz Network CollectionLarge network datasets
 
 * [NetWiki](http://netwiki.amath.unc.edu/SharedData/SharedData)
 
